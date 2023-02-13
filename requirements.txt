@@ -1,0 +1,8 @@
+asgiref==3.5.2
+Django==4.1.2
+Jinja2==3.1.2
+MarkupSafe==2.1.1
+PyYAML==6.0
+render==1.0.0
+sqlparse==0.4.3
+tzdata==2022.5

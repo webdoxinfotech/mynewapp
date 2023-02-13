@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="requests" />
+          <option value="bytes.presence_of_element_located" />
+          <option value="selenium.webdriver.chrome.webdriver.WebDriver.find_element_by_link_text" />
+          <option value="selenium.webdriver.common.actions.click" />
+          <option value="selenium.webdriver.common.actions.perform" />
+          <option value="action.perform" />
+          <option value="action.click" />
+          <option value="newe8.another_element" />
+          <option value="signup.send_keys" />
+          <option value="test.my_sum" />
+          <option value="test.my_test" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
